@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import { TextIcon, MediaPlayIcon } from 'react-open-iconic-svg';
 import "./TodoEntry.css";
 import clsx from "clsx";
 
